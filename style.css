@@ -72,6 +72,6 @@ p {
 
 .intro {
   height: 750px;
-  background: url("../img/Clip.jpg") center no-repeat;
+  background: url("Clip.jpg") center no-repeat;
   background-size: cover;
 }
